@@ -1,0 +1,51 @@
+id,prompt,A,B,C,D,E,answer
+1,What is the square root of 144?,11,14,10,12,13,D
+2,Pick the best possible answer: What is the subatomic particle with no electric charge found in the nucleus based on the given context.,Neutron,Photon,Positron,Electron,Proton,A
+3,Determine the correct option: the highest mountain peak on Earth among the listed options.,Makalu,Mount Everest,Lhotse,K2,Kangchenjunga,B
+4,Select the most accurate option: the longest river in the world from the following choices.,Amazon,Danube,Yangtze,Nile,Mississippi,D
+5,What is the capital of France?,Berlin,Rome,Paris,London,Madrid,C
+6,What is the correct answer: the year World War II ended?,1945,1943,1944,1947,1946,A
+7,Select the most accurate option: What is the molecule that carries genetic instructions in living organisms from the following choices.,RNA,DNA,ATP,Protein,Lipid,B
+8,Which planet is known as the Red Planet?,Venus,Mercury,Mars,Saturn,Jupiter,C
+9,Determine the correct option: a number greater than 1 divisible only by 1 and itself among the listed options.,21,6,15,9,7,E
+10,Which planet is known as the Red Planet?,Venus,Mars,Saturn,Jupiter,Mercury,B
+11,Select the most accurate option: the largest continent by land area from the following choices.,Asia,Antarctica,Europe,Africa,North America,A
+12,What is the square root of 144?,12,14,13,10,11,A
+13,What is the correct answer: What is the subatomic particle with no electric charge found in the nucleus?,Proton,Electron,Photon,Neutron,Positron,D
+14,Which planet is known as the Red Planet?,Venus,Jupiter,Mars,Mercury,Saturn,C
+15,Pick the best possible answer: the largest continent by land area based on the given context.,Europe,Antarctica,North America,Africa,Asia,E
+16,Determine the correct option: What is the process by which plants convert light into chemical energy among the listed options.,Photosynthesis,Digestion,Combustion,Respiration,Fermentation,A
+17,Choose the right answer: the formula for the area of a circle,pi*d,pi*r,pi*r^2,2*pi*r,2*pi*r^2,C
+18,What is the correct answer: What is the process of liquid turning into gas?,Evaporation,Freezing,Melting,Condensation,Sublimation,A
+19,Pick the best possible answer: the year World War II ended based on the given context.,1946,1945,1943,1944,1947,B
+20,What is the correct answer: the highest mountain peak on Earth?,K2,Kangchenjunga,Lhotse,Mount Everest,Makalu,D
+21,Choose the right answer: the year World War II ended,1946,1944,1947,1943,1945,E
+22,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,Mercury,B
+23,What is the correct answer: the largest continent by land area?,Antarctica,Europe,Africa,Asia,North America,D
+24,Choose the right answer: the year World War II ended,1946,1945,1947,1943,1944,B
+25,Select the most accurate option: a number greater than 1 divisible only by 1 and itself from the following choices.,15,9,7,6,21,C
+26,Determine the correct option: the relation between sides of a right-angled triangle among the listed options.,a-b=c,a/b=c,a+b=c,a^2+b^2=c^2,a*b=c,D
+27,Select the most accurate option: the year World War II ended from the following choices.,1946,1945,1943,1947,1944,B
+28,Which planet is known as the Red Planet?,Saturn,Jupiter,Mars,Venus,Mercury,C
+29,What is the correct answer: the year of the first human moon landing?,1971,1972,1965,1969,1967,D
+30,Choose the right answer: the year of the first human moon landing,1972,1971,1969,1967,1965,C
+31,Choose the right answer: the year World War II ended,1943,1945,1946,1947,1944,B
+32,Determine the correct option: the year of the first human moon landing among the listed options.,1965,1972,1969,1967,1971,C
+33,What is the correct answer: the largest continent by land area?,Antarctica,Asia,Africa,North America,Europe,B
+34,Choose the right answer: the year of the first human moon landing,1969,1967,1971,1965,1972,A
+35,What is the largest mammal in the world?,Blue whale,Elephant,Hippopotamus,Great white shark,Giraffe,A
+36,Select the most accurate option: the year of the first human moon landing from the following choices.,1971,1969,1965,1972,1967,B
+37,Which element has atomic number 1?,Oxygen,Helium,Carbon,Hydrogen,Lithium,D
+38,Determine the correct option: What is the process by which plants convert light into chemical energy among the listed options.,Photosynthesis,Digestion,Combustion,Fermentation,Respiration,A
+39,What is the powerhouse of the cell?,Mitochondria,Nucleus,Endoplasmic reticulum,Golgi apparatus,Ribosome,A
+40,Determine the correct option: the year of the first human moon landing among the listed options.,1965,1967,1972,1971,1969,E
+41,Who wrote Romeo and Juliet?,Ernest Hemingway,Mark Twain,Charles Dickens,William Shakespeare,Jane Austen,D
+42,What is the square root of 144?,12,11,14,10,13,A
+43,What is the correct answer: the relation between sides of a right-angled triangle?,a/b=c,a+b=c,a*b=c,a^2+b^2=c^2,a-b=c,D
+44,What is the capital of France?,Madrid,Paris,London,Berlin,Rome,B
+45,Which planet is known as the Red Planet?,Jupiter,Saturn,Venus,Mars,Mercury,D
+46,Pick the best possible answer: What is the process of liquid turning into gas based on the given context.,Melting,Condensation,Sublimation,Evaporation,Freezing,D
+47,Determine the correct option: What is the process by which plants convert light into chemical energy among the listed options.,Digestion,Combustion,Fermentation,Respiration,Photosynthesis,E
+48,What is the speed of light in vacuum?,3 x 10^8 m/s,3 x 10^6 m/s,3 x 10^5 m/s,3 x 10^10 m/s,3 x 10^7 m/s,A
+49,Choose the right answer: the year World War II ended,1945,1946,1943,1947,1944,A
+50,What is the chemical symbol for water?,NaCl,O2,N2,CO2,H2O,E

@@ -6,8 +6,10 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "accelerate>=1.14.0",
+    "bitsandbytes>=0.46.1",
     "datasets>=5.0.0",
     "evaluate>=0.4.6",
+    "ipykernel>=7.3.0",
     "nltk>=3.10.0",
     "numpy>=2.5.1",
     "optuna>=4.9.0",
@@ -15,8 +17,10 @@ dependencies = [
     "peft>=0.19.1",
     "rank-bm25>=0.2.2",
     "scikit-learn>=1.9.0",
+    "sentencepiece>=0.2.2",
     "torch>=2.13.0",
     "tqdm>=4.68.4",
     "transformers>=5.14.1",
+    "trl>=1.9.1",
     "wandb>=0.28.1",
 ]
